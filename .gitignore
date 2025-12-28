@@ -1,0 +1,15 @@
+# Build output
+/target
+
+# IDE settings
+.vscode/
+.idea/
+
+# Backup files
+**/*.rs.bk
+
+# Logs
+*.log
+
+# Node modules
+node_modules/
